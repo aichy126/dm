@@ -1,4 +1,4 @@
-module dm
+module gitee.com/travelliu/dm
 
 go 1.13
 

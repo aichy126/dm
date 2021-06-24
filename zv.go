@@ -6,7 +6,6 @@
 package dm
 
 import (
-	"fmt"
 	"strconv"
 	"strings"
 )
@@ -78,12 +77,10 @@ func (g *Properties) GetBool(key string, def bool) bool {
 }
 
 func (g *Properties) GetTrimString(key string, def string) string {
-	fmt.Println(key, def)
 	value, ok := g.innerProps[strings.ToLower(key)]
 	if !ok || value == "" {
 		return def
 	} else {
-		fmt.Println(value)
 		return strings.TrimSpace(value)
 	}
 }

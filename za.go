@@ -7,8 +7,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/i18n"
 	"fmt"
+	"gitee.com/travelliu/dm/i18n"
 	"runtime"
 )
 

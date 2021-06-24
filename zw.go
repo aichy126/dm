@@ -6,7 +6,7 @@
 package dm
 
 import (
-	"dm/util"
+	"gitee.com/travelliu/dm/util"
 	"math/rand"
 	"strconv"
 	"time"

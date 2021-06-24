@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"gitee.com/travelliu/dm/parser"
+	"gitee.com/travelliu/dm/util"
 	"strconv"
 	"strings"
 )

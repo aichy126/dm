@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"gitee.com/travelliu/dm/util"
 	"math/rand"
 	"sync"
 	"time"

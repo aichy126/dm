@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bufio"
-	"dm/util"
+	"gitee.com/travelliu/dm/util"
 	"io"
 	"os"
 	"runtime"

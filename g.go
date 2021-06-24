@@ -5,8 +5,8 @@
 package dm
 
 import (
-	"dm/util"
 	"fmt"
+	"gitee.com/travelliu/dm/util"
 	"math"
 	"os"
 	"sort"

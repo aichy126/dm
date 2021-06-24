@@ -7,7 +7,7 @@ package dm
 import (
 	"bytes"
 	"crypto/tls"
-	"dm/security"
+	"gitee.com/travelliu/dm/security"
 	"net"
 	"strconv"
 	"time"

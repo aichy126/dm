@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"gitee.com/travelliu/dm/util"
 	"os"
 	"strconv"
 	"strings"
